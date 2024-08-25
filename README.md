@@ -10,4 +10,4 @@
 * Has to answer the quiz within a predefined time limit (10 seconds).
 * See the quiz summary.
 * This app can be further enhanced to support a larger question base , and different subject category.
-* [Demo]()
+* [Demo](https://gouritd.github.io/react-QuizApp/)
